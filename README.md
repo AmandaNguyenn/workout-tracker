@@ -7,6 +7,6 @@ For this assignment, we were tasked to create a workout tracker. We were require
 Github: https://github.com/AmandaNguyenn/workout-tracker
         https://amandanguyenn.github.io/workout-tracker/
 
-Heroku: 
+Heroku: https://an-workout-tracker.herokuapp.com/
 
 
